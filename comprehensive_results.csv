@@ -1,0 +1,5 @@
+Metric,Value
+Best Model Parameters,"{'criterion': 'gini', 'max_depth': 4, 'min_samples_leaf': 4, 'min_samples_split': 2}"
+Best CV Score,0.832
+Average CV Score,0.808
+Clinical Interpretation,Strong alignment with clinical knowledge
